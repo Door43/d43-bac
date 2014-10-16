@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bac:home|Door43 (bac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bac|d43-bac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bac/archive/master.zip|d43-bac.zip]]
+
+**Recent Changes**
+{{changes>ns = bac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bac|Ethnologue data]]
+
